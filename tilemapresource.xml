@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>ST94E_Hill_1M_Rend.tif</Title>
+      <Title>Solent_1M_DTM_Nat_Rend_Clip_Final.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.07301470854999" miny="51.15922138572162" maxx="-2.00136556889585" maxy="51.24916619263925"/>
-      <Origin x="-2.07301470854999" y="51.15922138572162"/>
+      <BoundingBox minx="-1.64763219715493" miny="50.66271830418361" maxx="-1.32500545305487" maxy="50.79901746697395"/>
+      <Origin x="-1.64763219715493" y="50.66271830418361"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
